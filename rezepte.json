@@ -1,0 +1,39 @@
+﻿[{
+    	"title": "Spaghetti Napoli",
+		"zutaten": [ "500 g Nudeln (Spaghetti)","1 Zwiebel","1 EL Olivenöl","500g Tomaten","Salz und Pfeffer", "Wasser" ], 
+		"img": "images/gerichte/sp.jpg",
+    	"description": "Die Spaghetti in reichlich Salzwasser bissfest kochen. Die Zwiebel abziehen und fein hacken. Das Öl in einem Topf erhitzen und die Zwiebel darin unter Rühren anbraten. Die Tomaten dazugeben ",
+		"time": "ca. 20 Min",
+		"niveau": "1/5",
+		"count" : "4 Personen",
+		"steps1": ["wasserInTopf","topfHeiß","salt","nudel"],
+		"steps2": ["oil","zwiebel","tomate","topfHeiß"],
+		"help": ["Ziehen Sie den Topf unter den Wasserhahn und klicken sie danach auf den Hahn um den Topf zu füllen","Stellen Sie den Topf auf den Herd","Ziehen Sie den Topf unter den Salzstreuer","Ziehen Sie die Nudeln in den Topf","Ziehen Sie den zweiten Topf unter den Öl-Spender","Ziehen Sie die Zwiebel in den zweiten Topf","Ziehen Sie die Tomate in den zweiten Topf","Stellen Sie den zweiten Topf auf den Herd","Fertig!"]
+	},
+	{
+		"title": "Spaghetti Carbonara",
+		"zutaten": [ "500 g Nudeln (Spaghetti)","1 Zwiebel","2 EL Parmesan","2 EL Mehl", "Salz und Pfeffer", "Wasser"], 
+		"img": "images/gerichte/sp2.jpg",
+    	"description": "Die Spaghetti im Salzwasser wie gewohnt kochen. Den Speck anbraten. In dieser Zeit die Schlagsahne mit dem Mehl vermischen und anschließend zum Speck geben. Danach den Parmesan, Salz und Pfeffer nach Belieben beimengen. Anschließend über die gekochten Spaghetti geben. ",
+		"time": "ca. 20 Min",
+		"niveau": "2/5",
+		"count" : "4 Personen",
+		"steps1":["wasserInTopf","topfHeiß","salt","nudel"],
+		"steps2":["oil","topfHeiß","steak","mehl","kaese","salt","pepper"],
+		"help": ["Ziehen Sie den Topf unter den Wasserhahn und klicken sie danach auf den Hahn um den Topf zu füllen","Stellen Sie den Topf auf den Herd","Ziehen Sie den Topf unter den Salzstreuer","Ziehen Sie die Nudeln in den Topf","Ziehen Sie die Pfanne unter den Öl-Spender","Stellen sie die Pfanne auf den Herd","Ziehen Sie das Fleisch in den zweiten Topf","Ziehen Sie das Mehl in die Pfanne","Ziehen Sie den Käse in die Pfanne","Ziehen Sie die Pfanne unter den Salz Spender","Ziehen Sie die Pfanne unter den Pfeffer Spender","Fertig!"]
+    },
+	{
+		"title": "Steak",
+		"zutaten": [ "FLEISCH","1 Zwiebel", "Öl"], 
+		"img": "images/gerichte/st.jpg",
+    	"description": "BRATEN!",
+		"time": "ca. 20 Min",
+		"niveau": "3/5",
+		"count" : "1 Person",
+		"steps1":["oil","topfHeiß","zwiebel","steak"],
+		"steps2":[],
+		"help" :["Ziehen Sie die Pfanne unter den Öl-Spender", "Stellen Sie die Pfanne auf den Herd", "Ziehen Sie die Zwiebel in die Pfanne","Ziehen Sie das Fleisch in die Pfanne","Fertig!!"]
+			
+    }	
+]
+

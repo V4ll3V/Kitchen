@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Spaceküche für den Hobbykoch</title>
+		<link rel="stylesheet" type="text/css" href="css/kueche.css">
+		<script>
+			window.onload = function(){
+				var kitchen = new Kitchen('kitchenCanvas');
+			};
+		</script>
+		<script type="text/javascript" src ="js/Kitchen.js"></script>
+		<script type="text/javascript" src ="js/Stage.js"></script>
+		<script type="text/javascript" src ="js/Pot.js"></script>
+		<script type="text/javascript" src ="js/mapPot.js"></script>
+		<script type="text/javascript" src ="js/VisualRenderObject.js"></script>
+		<script type="text/javascript" src ="js/VisualRenderObjectExtend.js"></script>
+		<script type="text/javascript" src ="js/Plate.js"></script>
+		<script type="text/javascript" src ="js/Door.js"></script>
+		<script type="text/javascript" src ="js/Faucet.js"></script>
+		<script type="text/javascript" src ="js/Logik.js"></script>
+		<script type="text/javascript" src ="js/Ingredient.js"></script>
+		<script type="text/javascript" src ="js/Spicery.js"></script>
+		<script type="text/javascript" src ="js/Recipes.js"></script>
+		<script type="text/javascript" src ="js/Books.js"></script>
+		<script type="text/javascript" src ="js/Books_big.js"></script>
+		<script type="text/javascript" src ="js/Button.js"></script>
+		<script type="text/javascript" src ="js/Movie.js"></script>
+		<script type="text/javascript" src ="js/Result.js"></script>
+		<script type="text/javascript" src ="js/Ajax.js"></script>
+		<script type="text/javascript" src ="js/RecDetails.js"></script>
+		<script type="text/javascript" src ="js/Ufo.js"></script>
+		<script type="text/javascript" src ="js/Decoration.js"></script>
+	</head>
+	<body>
+		<!-- Div links - Canvas-->
+		<div id="kuechSim">
+			<canvas id="kitchenCanvas" width="1024" height="768">
+				Kein Canvas!
+			</canvas>
+			<div id="userInfo"></div>
+		</div>
+		<!-- Div rechts - Rezeptbuch -->
+		<div id="rezept">
+			<div id="recipe-details"></div>
+		</div>
+	</body>
+</html>
